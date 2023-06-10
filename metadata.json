@@ -1,0 +1,9 @@
+{
+    "name": "MinibossHelper",
+    "description": "Features to help with long spans of Crimson Isle Miniboss grinding",
+    "creator": "Stuffy",
+    "helpmessage": "&eCommands: &7/startsession&e, &7/endsession, &7/follow&e.",
+    "entry": "index.js",
+    "version": "1.0.0",
+    "changelog": ""
+  }
